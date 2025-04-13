@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FurdoruhaWebshop</string>
+    <string name="email_hint">Email cím</string>
+    <string name="password_hint">Jelszó</string>
+    <string name="login_button">Bejelentkezés</string>
+    <string name="register_button">Regisztráció</string>
+</resources>

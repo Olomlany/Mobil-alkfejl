@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "458027844920",
+    "project_id": "furdoruhawebshop",
+    "storage_bucket": "furdoruhawebshop.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458027844920:android:26d8cc0f0ea0e594442dcd",
+        "android_client_info": {
+          "package_name": "com.example.furdoruha_webshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB_jwcB1jk-tYkcMX7AsOc1aClEof--IQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
